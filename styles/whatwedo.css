@@ -1,0 +1,347 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.homepage-zZH {
+  box-sizing: border-box;
+  padding: 2.2rem 9.6rem 5rem 9.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.homepage-zZH .header-SgB {
+  margin: 0rem 37.7rem 3.1rem 7.6rem;
+  width: calc(100% - 45.3rem);
+  height: 8.9rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-zZH .header-SgB .image-1-Quq {
+  width: 11.7rem;
+  height: 8.9rem;
+  position: relative;
+  background-size: 100% 130.92%;
+  background-position: -0rem -0.6383rem;
+  background-image: url('../assets/image-1.png');
+  flex-shrink: 0;
+}
+.homepage-zZH .header-SgB .auto-group-njcx-Uuh {
+  box-sizing: border-box;
+  padding: 3.1rem 0rem 1rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-zZH .header-SgB .auto-group-njcx-Uuh .component-1-Lwu {
+  margin-right: 13.7rem;
+  box-sizing: border-box;
+  padding-left: 0.3rem;
+  width: 9.8rem;
+  height: 100%;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Newsreader, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-zZH .header-SgB .auto-group-njcx-Uuh .home-b79 {
+  margin: 0rem 4.6rem 2.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-zZH .header-SgB .auto-group-njcx-Uuh .services-hAB {
+  margin: 0rem 4.6rem 2.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-zZH .header-SgB .auto-group-njcx-Uuh .newsletter-ajm {
+  margin: 0rem 4.6rem 2.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-zZH .header-SgB .auto-group-njcx-Uuh .what-we-do-tVZ {
+  margin-bottom: 2.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-zZH .auto-group-ga9h-cAf {
+  margin: 0rem 12.9rem 6.9rem 16.9rem;
+  width: calc(100% - 29.8rem);
+  height: 20.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-zZH .auto-group-ga9h-cAf .were-navigating-the-shadows-where-your-vision-fades-vh9 {
+  width: 92rem;
+  height: 15.4rem;
+  position: absolute;
+  left: 0;
+  top: 5rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: -0.128rem;
+  color: #000000;
+  font-family: Newsreader, 'Source Sans Pro';
+}
+.homepage-zZH .auto-group-ga9h-cAf .were-navigating-the-shadows-where-your-vision-fades-vh9 .were-navigating-the-shadows-where-your-vision-fades-vh9-sub-0 {
+}
+.homepage-zZH .auto-group-ga9h-cAf .were-navigating-the-shadows-where-your-vision-fades-vh9 .were-navigating-the-shadows-where-your-vision-fades-vh9-sub-1 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: -0.128rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Newsreader, 'Source Sans Pro';
+}
+.homepage-zZH .auto-group-ga9h-cAf .were-navigating-the-shadows-where-your-vision-fades-vh9 .were-navigating-the-shadows-where-your-vision-fades-vh9-sub-2 {
+}
+.homepage-zZH .auto-group-ga9h-cAf .were-navigating-the-shadows-where-your-vision-fades-vh9 .were-navigating-the-shadows-where-your-vision-fades-vh9-sub-3 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: -0.128rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Newsreader, 'Source Sans Pro';
+}
+.homepage-zZH .auto-group-ga9h-cAf .were-navigating-the-shadows-where-your-vision-fades-vh9 .were-navigating-the-shadows-where-your-vision-fades-vh9-sub-4 {
+}
+.homepage-zZH .auto-group-ga9h-cAf .were-navigating-the-shadows-where-your-vision-fades-vh9 .were-navigating-the-shadows-where-your-vision-fades-vh9-sub-5 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: -0.128rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Newsreader, 'Source Sans Pro';
+}
+.homepage-zZH .auto-group-ga9h-cAf .frame-1-byd {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 84.8rem;
+  top: 0;
+  overflow: hidden;
+}
+.homepage-zZH .who-we-are-XsH {
+  margin: 0rem 0.2rem 5.55rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-zZH .nefilim-is-a-company-dedicated-to-combating-human-trafficking-through-the-use-of-osint-open-source-intelligence-our-primary-mission-is-to-employ-advanced-techniques-for-information-collection-and-analysis-to-identify-and-confront-human-trafficking-networks-on-a-global-scale-additionally-nefilim-is-committed-to-sharing-its-expertise-in-osint-by-providing-training-and-educational-resources-to-empower-other-organizations-and-individuals-to-contribute-to-the-fight-against-this-heinous-crime-we-are-determined-to-make-a-positive-impact-by-raising-awareness-and-providing-effective-tools-for-those-who-wish-to-actively-engage-in-the-eradication-of-human-trafficking-ctj {
+  margin: 0rem 0rem 12.05rem 4.2rem;
+  max-width: 62.4rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-zZH .screenshot-2024-01-13-112038-1-qQ7 {
+  margin: 0rem 0.2rem 10.3rem 0rem;
+  width: 64.6rem;
+  height: 58.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 11rem;
+  flex-shrink: 0;
+}
+.homepage-zZH .our-team-iD1 {
+  margin: 0rem 0.2rem 17.25rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-zZH .our-team-is-led-by-ceo-pedro-avi-he-is-certified-by-mcafee-aws-comptia-and-has-experience-with-the-brazilian-federal-police-interpol-and-europool-the-other-analysts-prefer-to-remain-undisclosed-for-security-reasons-but-the-team-is-composed-of-various-professionals-from-around-the-world-pWw {
+  margin: 0rem 0rem 16.45rem 2.6rem;
+  max-width: 62rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-zZH .description-DJB {
+  margin: 0rem 0.3rem 5.8rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-zZH .auto-group-6tis-j1d {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.homepage-zZH .auto-group-6tis-j1d .frame-38-GnF {
+  margin: 0.4rem 29.7rem 0rem 0rem;
+  display: flex;
+  column-gap: 0.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-zZH .auto-group-6tis-j1d .frame-38-GnF .item--1E3 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-zZH .auto-group-6tis-j1d .frame-38-GnF .description-LXD {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-zZH .auto-group-6tis-j1d .frame-38-GnF .description-Fu5 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-zZH .auto-group-6tis-j1d .frame-38-GnF .description-awM {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-zZH .auto-group-6tis-j1d .social-media-7Ab {
+  margin: 0.4rem 27rem 0rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.0762rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-zZH .auto-group-6tis-j1d .social-media-7Ab .instagram-RBH {
+  margin-right: 3.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-zZH .auto-group-6tis-j1d .social-media-7Ab .twitter-KGf {
+  margin-right: 3.2738rem;
+  width: 2.4rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-zZH .auto-group-6tis-j1d .social-media-7Ab .linkedin-Ss5 {
+  margin-bottom: 0.0056rem;
+  width: 2.25rem;
+  height: 2.1506rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-zZH .auto-group-6tis-j1d .auto-group-mxfd-x4j {
+  margin-bottom: 0.2rem;
+  box-sizing: border-box;
+  padding-left: 13.4rem;
+  height: 2.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,24 @@
+trabalho feito individualmente por pedro avi
+
+ferramentas utilizadas:
+figma > ux/ui, modelagem do front-end
+function12.io > converter figma pra html/css (site meio bosta, mas foi oq teve pra hoje)
+canva ia > geração de imagens feitas por ia
+chat gpt > criação de textos para o site
+visual studio code > ide para programar
+google imagens > fotos de pinturas
+invaluable.com > fotos de pinturas
+
+pinturas utilizadas:
+the creation of adam - michelangelo, 1512
+st michael the archangel - reni guido, 1635
+fallen angel - alexandre cabanel, 1847
+school teaching, a teacher with four pupils - pasquale rossi, sem data
+a philosopher lecturing on the orrery - joseph wright, 1766
+as demais pinturas, artes de anjos foram feitas utilizando a inteligência artificial do canva
+
+de "programação" foi utilizado:
+html (feito no figma e importado do function12.io)
+css (feito no figma e importado do function12.io)
+javascript (utilizado apenas para o carousel da página inicial, copiei desse repositório abaixo:)
+https://github.com/hirokirigaya/Tutoriais---Daniel-Ferreira/tree/vanilla-tutorial-slider

@@ -1,0 +1,431 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.homepage-BNK {
+  width: 100%;
+  height: 209.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.homepage-BNK .auto-group-jrgp-uZD {
+  width: 94.8rem;
+  height: 20.4rem;
+  position: absolute;
+  left: 26.7rem;
+  top: 14.2rem;
+}
+.homepage-BNK .auto-group-jrgp-uZD .were-navigating-the-shadows-where-your-vision-fades-b4f {
+  width: 92rem;
+  height: 15.4rem;
+  position: absolute;
+  left: 0;
+  top: 5rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: -0.128rem;
+  color: #000000;
+  font-family: Newsreader, 'Source Sans Pro';
+}
+.homepage-BNK .auto-group-jrgp-uZD .were-navigating-the-shadows-where-your-vision-fades-b4f .were-navigating-the-shadows-where-your-vision-fades-b4f-sub-0 {
+}
+.homepage-BNK .auto-group-jrgp-uZD .were-navigating-the-shadows-where-your-vision-fades-b4f .were-navigating-the-shadows-where-your-vision-fades-b4f-sub-1 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: -0.128rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Newsreader, 'Source Sans Pro';
+}
+.homepage-BNK .auto-group-jrgp-uZD .were-navigating-the-shadows-where-your-vision-fades-b4f .were-navigating-the-shadows-where-your-vision-fades-b4f-sub-2 {
+}
+.homepage-BNK .auto-group-jrgp-uZD .were-navigating-the-shadows-where-your-vision-fades-b4f .were-navigating-the-shadows-where-your-vision-fades-b4f-sub-3 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: -0.128rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Newsreader, 'Source Sans Pro';
+}
+.homepage-BNK .auto-group-jrgp-uZD .were-navigating-the-shadows-where-your-vision-fades-b4f .were-navigating-the-shadows-where-your-vision-fades-b4f-sub-4 {
+}
+.homepage-BNK .auto-group-jrgp-uZD .were-navigating-the-shadows-where-your-vision-fades-b4f .were-navigating-the-shadows-where-your-vision-fades-b4f-sub-5 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: -0.128rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Newsreader, 'Source Sans Pro';
+}
+.homepage-BNK .auto-group-jrgp-uZD .frame-1-pNf {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 84.8rem;
+  top: 0;
+  overflow: hidden;
+}
+.homepage-BNK .auto-group-5zd1-X2B {
+  width: 124.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 201.4rem;
+  display: flex;
+  align-items: flex-end;
+}
+.homepage-BNK .auto-group-5zd1-X2B .frame-38-1T9 {
+  margin: 0.4rem 29.7rem 0rem 0rem;
+  display: flex;
+  column-gap: 0.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-BNK .auto-group-5zd1-X2B .frame-38-1T9 .item--va7 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-BNK .auto-group-5zd1-X2B .frame-38-1T9 .description-SHZ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-BNK .auto-group-5zd1-X2B .frame-38-1T9 .description-NBD {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-BNK .auto-group-5zd1-X2B .frame-38-1T9 .description-JqZ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-BNK .auto-group-5zd1-X2B .social-media-3HM {
+  margin: 0.4rem 27rem 0rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.0762rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-BNK .auto-group-5zd1-X2B .social-media-3HM .instagram-MYw {
+  margin-right: 3.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-BNK .auto-group-5zd1-X2B .social-media-3HM .twitter-5jq {
+  margin-right: 3.2738rem;
+  width: 2.4rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-BNK .auto-group-5zd1-X2B .social-media-3HM .linkedin-CJf {
+  margin-bottom: 0.0056rem;
+  width: 2.25rem;
+  height: 2.1506rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-BNK .auto-group-5zd1-X2B .auto-group-bvfz-vkT {
+  margin-bottom: 0.2rem;
+  box-sizing: border-box;
+  padding-left: 13.4rem;
+  height: 2.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-BNK .header-RBR {
+  width: 79.3rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 17.4rem;
+  top: 2.2rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.homepage-BNK .header-RBR .image-1-M55 {
+  width: 11.7rem;
+  height: 8.9rem;
+  position: relative;
+  background-size: 100% 130.92%;
+  background-position: -0rem -0.6383rem;
+  background-image: url('../assets/image-1.png');
+  flex-shrink: 0;
+}
+.homepage-BNK .header-RBR .auto-group-8f6b-FAT {
+  box-sizing: border-box;
+  padding: 3.1rem 0rem 1rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-BNK .header-RBR .auto-group-8f6b-FAT .component-1-mPh {
+  margin-right: 13.7rem;
+  box-sizing: border-box;
+  padding-left: 0.3rem;
+  width: 9.8rem;
+  height: 100%;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Newsreader, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-BNK .header-RBR .auto-group-8f6b-FAT .home-3c7 {
+  margin: 0rem 4.6rem 2.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-BNK .header-RBR .auto-group-8f6b-FAT .services-aVZ {
+  margin: 0rem 4.6rem 2.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-BNK .header-RBR .auto-group-8f6b-FAT .newsletter-6D1 {
+  margin: 0rem 4.6rem 2.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-BNK .header-RBR .auto-group-8f6b-FAT .what-we-do-155 {
+  margin-bottom: 2.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-BNK .description-KLf {
+  width: 10.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 66.9rem;
+  top: 193.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-BNK .auto-group-fgck-1zB {
+  width: 74.8rem;
+  height: 12rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 46.5rem;
+}
+.homepage-BNK .auto-group-fgck-1zB .we-offer-specialized-in-person-and-online-training-sessions-covering-a-broad-array-of-subject-areas-including-but-not-limited-to-darknet-investigations-osint-and-humint-to-view-a-summary-of-the-courses-we-can-offer-upon-request-click-the-button-below-these-can-all-be-tailored-based-on-experience-level-and-individual-requirements-kB5 {
+  width: 74.8rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 0;
+  top: 2.5999999999999996rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.homepage-BNK .auto-group-fgck-1zB .trainings--giw {
+  width: 7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-BNK .see-all-trainings--PNT {
+  width: 13.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 59rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-BNK .our-team-is-experienced-in-humint-and-osint-around-the-world-we-can-offer-both-intelligence-and-operational-support-on-the-ground-and-online-in-real-time-to-assist-your-operations-furthermore-our-team-members-are-registered-private-investigators-in-the-state-of-virginia-in-the-united-states-please-contact-us-for-further-inquiry-on-these-details-61y {
+  width: 75.7rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 67.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.homepage-BNK .looking-for-a-dynamic-speaker-for-your-upcoming-event-or-a-captivating-guest-for-your-podcast-rest-assured-your-audience-is-in-capable-hands-when-our-team-takes-the-stage-we-are-enthusiastic-about-sharing-our-research-and-expertise-at-various-events-to-bring-us-to-your-next-occasion-or-podcast-episode-simply-click-the-button-below-ehh {
+  width: 75.5rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 81.9rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.homepage-BNK .let-us-support-you-in-identifying-gathering-and-assessing-information-through-analytical-tools-and-link-mapping-to-uncover-relationships-patterns-trends-indicators-and-warnings-addressing-intelligence-gaps-our-team-with-proven-experience-specializes-in-delivering-actionable-intelligence-products-to-authorities-investigating-human-trafficking-and-other-forms-of-exploitation-these-comprehensive-intelligence-packages-provide-investigators-with-all-the-necessary-information-to-reproduce-evidence-during-the-prosecution-phase-RM5 {
+  width: 75.6rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 97.05rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.homepage-BNK .speaking-conferences--vBM {
+  width: 18.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 78.9rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-BNK .speaking-conferences--Dw9 {
+  width: 18.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 64.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-BNK .intelligence-packages--wMM {
+  width: 16.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 94rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2999999523;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-BNK .image-2-eFm {
+  width: 58.3rem;
+  height: 57.8rem;
+  position: absolute;
+  left: 44rem;
+  top: 122.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.5rem;
+}
